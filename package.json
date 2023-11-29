@@ -1,0 +1,20 @@
+{
+  "name": "ubiquietous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tough-cookie": "^4.1.3",
+    "truffle": "^5.5.19",
+    "web3": "^4.2.2"
+  },
+  "optionalDependencies": {
+    "fsevents": "*"
+  }  
+}
