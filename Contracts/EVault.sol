@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract IndianJudicialEVault {
+contract EVault {
     address public owner; // The address that deployed the contract
     uint public totalDocuments; // Total number of documents stored
 
